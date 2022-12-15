@@ -1,10 +1,13 @@
----
-name: Document issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+### 제목
 
 ---
 
+### 내용
 
+수정 내용 : 
+변경 이력 :
+
+--- 
+
+### 변경 일자 :
+## 수정자 : 
