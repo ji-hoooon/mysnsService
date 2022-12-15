@@ -13,3 +13,5 @@
 * Java Jsp React Spring MySQL
 
 ---
+5. 배포기술
+    jenkins,CI/CD 구축 
